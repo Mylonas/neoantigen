@@ -39,9 +39,9 @@ This project was developed under Python 3.7.7
 ------------------------------------------------------------------------------------
 Installing Dependancies
 --------------
---1. Opposum         https://github.com/BSGOxford/OpossumDependancies
---2. Platypus:      https://github.com/andyrimmer/Platypus
---3. ArcasHLA:      https://github.com/RabadanLab/arcasHLA/tree/master/scripts
 
---4. NeoPredPipe:   https://github.com/MathOnco/NeoPredPipe/blob/master
+* Opposum: https://github.com/BSGOxford/OpossumDependancies
+* Platypus: https://github.com/andyrimmer/Platypus
+* ArcasHLA: https://github.com/RabadanLab/arcasHLA/tree/master/scripts
+* NeoPredPipe:   https://github.com/MathOnco/NeoPredPipe/blob/master
 ------------------------------------------------------------------------------------
