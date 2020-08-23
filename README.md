@@ -45,3 +45,7 @@ Installing Dependancies
 * ArcasHLA: https://github.com/RabadanLab/arcasHLA/tree/master/scripts
 * NeoPredPipe:   https://github.com/MathOnco/NeoPredPipe/blob/master
 ------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------
+Release History
+-----------------------
