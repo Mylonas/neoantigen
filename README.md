@@ -39,8 +39,8 @@ This project was developed under Python 3.7.7
 ------------------------------------------------------------------------------------
 System Requirements
 -------------------
-Any Java-enabled platform (Windows, Linux, Mac OS X)
-RAM 1-16Gb
+* Any Java-enabled platform (Windows, Linux, Mac OS X)
+* RAM 1-16Gb
 ------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
