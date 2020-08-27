@@ -8,7 +8,7 @@ CONTENTS OF THIS FILE
  * Motivation
  * Tech/Framework used
  * Version of built
- * Running Script
+ * System requirements
  * Output
  * Credits
  
@@ -37,7 +37,14 @@ This project was developed under Python 3.7.7
 ------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------
-Installing Dependancies
+System Requirements
+-------------------
+Any Java-enabled platform (Windows, Linux, Mac OS X)
+RAM 1-16Gb
+------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------
+Dependancies
 --------------
 
 * Opposum: https://github.com/BSGOxford/OpossumDependancies
